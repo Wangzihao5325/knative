@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/ingress@sha256:23f135f904e204243459cf489447e512667d624de753e393643563a369ff2995
+MAINTAINER laimei@supermap.com
